@@ -19,7 +19,7 @@ or
 ```yml
 dependencies:
   ...
-  sliver_list_separator: ^1.0.0
+  sliver_list_separator: ^1.0.1
   ...
 ```
 
